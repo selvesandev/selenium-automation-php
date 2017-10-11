@@ -1,0 +1,11 @@
+{
+  "name": "selvesandev/selenium",
+  "description": "Automation testing with selenium",
+  "authors": [
+    {
+      "name": "selvesan",
+      "email": "dev.selvesan@gmail.com"
+    }
+  ],
+  "require": {}
+}
